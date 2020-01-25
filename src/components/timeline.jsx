@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Controls Engineer at IMA Life <span>2017-present</span></h2>
-                        <p>During my undergraduate studies, I entered at IMA Life.  Upon completion of my degree, I was hired to a full-time position.  I utilize my skills in C# and VBA to develop clear, efficient SCADA systems to interface with industrial freezedryers.  I occassionally leverage my skills in Python to develop in-house tools, such as an employee training record tracker and a project setup automation tool. Additionally, I help to design SQL databases and stored proceedures to store historical data and generate FDA audit reports.</p>
+                        <h2>Software Engineer at IMA Life <span>2017-present</span></h2>
+                        <p>During my undergraduate studies, I interned at IMA Life.  Upon completion of my degree, I was hired to a full-time position.  I utilize my skills in C# and VBA to develop clear, efficient SCADA systems to interface with industrial freezedryers.  I occassionally leverage my skills in Python to develop in-house tools, such as an employee training record tracker and a project setup automation tool. Additionally, I help to design SQL databases and stored proceedures to store historical data and generate FDA audit reports.</p>
                       </div>
                     </div>
                   </article>
